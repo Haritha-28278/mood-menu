@@ -1,0 +1,6 @@
+{
+  "name": "Mood Menu",
+  "description": "A playful yet comforting emotional bistro serving witty, practical recipes and activities for whatever you're feeling right now.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
